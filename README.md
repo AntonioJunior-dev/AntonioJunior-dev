@@ -81,7 +81,3 @@ Sistemas internos que eu desenvolvi e mantenho para a **TopUp Academias**, rede 
 2. **Vagas:** full stack (PHP/Laravel, Node/TypeScript ou React), remoto ou em Fortaleza
 3. **Sociedade:** produtos SaaS e parcerias com quem tem clientes ou um nicho
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AntonioJunior-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioJunior-dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br">
-</p>
